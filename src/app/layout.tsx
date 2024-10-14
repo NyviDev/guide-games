@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Fredoka } from "@next/font/google";
+import { Fredoka } from "next/font/google";
 
 export const metadata: Metadata = {
   title: "Guide Games",
